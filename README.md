@@ -34,3 +34,6 @@ Launch the GUI:
 ```bash
 python chatgui.py
 ```
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Pawan0019/Chatbot_Using_NLTK_-_Keras/blob/main/LICENSE) file for details.
